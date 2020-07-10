@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+#c1{
+	  border: 1px  black;
+  outline-style: dotted;
+  outline-color: #00ff00;
+  
+  
+  }
+  
+ #c2{
+ border: 1px black;
+    outline-style: solid;
+  outline-color: red;
+  
+ }
+
+ #c3{
+ border: 1px black;
+  outline-style: outset;
+  outline-color: #bbffff;
+  padding:6px;
+ }
