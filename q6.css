@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+table , td,th{
+	border: 1px solid green;
+}
+
+#c1{
+	background-color:green;
+	color:white;
+	 
+}
+#c2{
+	background-color:green;
+	color:white;
+	 
+}
+#c3{
+	background-color:green;
+	color:white;
+	 
+}
