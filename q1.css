@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+#c1{
+	background-color: aqua;
+}
+#c2{
+	background-color: #0000ff;
+	width : auto;
+	height :50px;
+	padding-bottom:50px;
+	
+}
+
+#c3{
+	background-color: #8bbff3;
+	max-height: 20px;
+}
+
+#c5{
+	background-color: #8bbff3;
+}
